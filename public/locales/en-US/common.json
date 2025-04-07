@@ -1,0 +1,24 @@
+{
+  "article": {
+    "relatedArticles": "Related articles",
+    "featured": "featured"
+  },
+  "landingPage": {
+    "latestArticles": "Latest articles"
+  },
+  "common": {
+    "regionalSettings": "Regional Settings",
+    "homepage": "Homepage",
+    "language": "Language",
+    "languageDrawer": "Toggle language drawer"
+  },
+  "footer": {
+    "aboutUs": "About",
+    "description": "Step into a world where every destination tells a story through its flavors and traditions. Flavors and Flights is your passport to uncovering hidden gems—local eateries, bustling markets, and unforgettable dishes—that invite you to truly immerse yourself in the heart of a culture. From savory street food stalls in vibrant city squares to aromatic cafes tucked away in cobblestone alleys, discover the culinary treasures that define each destination. Whether you’re a seasoned traveler or an armchair adventurer, this blog is your guide to experiencing the world one bite—and one story—at a time. 🌍🍴",
+    "powerBy": "Powered by"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "This page doesn't seem to exist. <0>Click here</0> to go back the homepage."
+  }
+}
