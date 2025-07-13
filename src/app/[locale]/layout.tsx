@@ -47,7 +47,6 @@ export default async function PageLayout({ children, params }: LayoutProps) {
       </head>
 
       <body>
-        <TranslationsProvider locale={locale} resources={resources}>
           <ContentfulPreviewProvider
             locale={locale}
             enableInspectorMode={preview}
@@ -61,7 +60,6 @@ export default async function PageLayout({ children, params }: LayoutProps) {
             </main>
             <div id="portal" className={`${urbanist.variable} font-sans`} />
           </ContentfulPreviewProvider>
-        </TranslationsProvider>
       </body>
     </html>
   );
