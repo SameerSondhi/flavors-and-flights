@@ -3,11 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=18",
-    "npm": "Please use Yarn"
+    "node": ">=18"
   },
   "scripts": {
-    "prepare": "husky install",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -34,6 +32,7 @@
     "@next/bundle-analyzer": "^14.2.6",
     "@next/swc-darwin-arm64": "^15.2.4",
     "dotenv": "^16.0.3",
+    "framer-motion": "^12.23.3",
     "graphql": "^16.6.0",
     "i18next-browser-languagedetector": "^8.0.0",
     "i18next-resources-to-backend": "^1.2.1",
@@ -70,7 +69,6 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "husky": "^8.0.2",
     "i18next": "^23.14.0",
     "i18next-http-backend": "^1.4.4",
     "lint-staged": "^13.0.3",
