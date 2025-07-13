@@ -30,7 +30,6 @@
     "@contentful/live-preview": "^4.5.14",
     "@contentful/rich-text-react-renderer": "^15.16.2",
     "@next/bundle-analyzer": "^14.2.6",
-    "@next/swc-darwin-arm64": "^15.2.4",
     "dotenv": "^16.0.3",
     "framer-motion": "^12.23.3",
     "graphql": "^16.11.0",
