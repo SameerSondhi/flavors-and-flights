@@ -1,7 +1,7 @@
 import '@src/app/globals.css';
 
 interface LayoutProps {
-  children: React.ReactNode;
+  children?: React.ReactNode;
   params: { locale: string };
 }
 

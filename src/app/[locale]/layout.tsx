@@ -31,7 +31,7 @@ const urbanist = Urbanist({ subsets: ['latin'], variable: '--font-urbanist' });
 const allowedOriginList = ['https://app.contentful.com', 'https://app.eu.contentful.com'];
 
 interface LayoutProps {
-  children: React.ReactNode;
+  children?: React.ReactNode;
   params: { locale: string };
 }
 
